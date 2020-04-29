@@ -19,3 +19,4 @@ class EmailParser
     n_emails
   end
   
+end
