@@ -1,5 +1,6 @@
 # Build a class EmailParser that accepts a string of unformatted emails.
-class EmailParser(emails)
+class EmailParser
+  
   
 # The parse method on the class should separate them intounique email addresses.
   def email_address(emails)
