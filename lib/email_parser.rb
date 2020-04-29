@@ -14,4 +14,4 @@ class EmailParser
   end
   
   def parse
-    puts 
+    puts split_email
