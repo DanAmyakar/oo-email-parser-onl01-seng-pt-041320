@@ -15,4 +15,4 @@ class EmailParser
   
   def parse
     puts split_email = emails.split.collect { |address| address.split(',')}
-    n_emails = 
+    n_emails = split.
