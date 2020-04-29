@@ -14,4 +14,4 @@ class EmailParser
   end
   
   def parse
-    puts split_email = emails.split.collect { |address| address.split
+    puts split_email = emails.split.collect { |address| address.split(',')
