@@ -14,4 +14,4 @@ class EmailParser
   end
   
   def parse
-    puts split_email = emails.split()
+    puts split_email = emails.split.collect{
